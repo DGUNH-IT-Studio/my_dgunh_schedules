@@ -1,0 +1,464 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Базы данных",
+                "type": "Лекция",
+                "presenter": "Бекбулатова З.А.",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Базы данных",
+                "type": "Лекция",
+                "presenter": "Бекбулатова З.А",
+                "room": "2/2",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "2",
+                "title": "Интернет программирование",
+                "type": "Практическое занятие",
+                "presenter": "Магомедова Д.С",
+                "room": "4/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Проектирование информационных сиситем",
+                "type": "Лекция",
+                "presenter": "Баширова М.М",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Проектирование информационных сиситем",
+                "type": "Лекция",
+                "presenter": "Баширова М.М",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Лекция",
+                "presenter": "Бейбалаев В.Д",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Интернет программирование",
+                "type": "Лекция",
+                "presenter": "Магомедова Д.С",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Интернет программирование",
+                "type": "Лабораторное занятие",
+                "presenter": "Магомедова Д.С",
+                "room": "4/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Физическая культура",
+                "type": "Элективные дисциплины",
+                "presenter": "Зкарьяев Ю.М",
+                "room": "спортзал ул. Д. Атаева,5",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Практическое занятие",
+                "presenter": "Баширова М.М",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Английский язык в информационных технологиях",
+                "type": "Практическое занятие",
+                "presenter": "Мухудадаева Р.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Основы бухгалтерского учета",
+                "type": "Лекция",
+                "presenter": "Цахаева Д.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы бухгалтерского учета",
+                "type": "Практическое занятие",
+                "presenter": "Цахаева Д.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Программная инженерия",
+                "type": "Лекция",
+                "presenter": "Кулибеков Н.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Базы данных",
+                "type": "Лабораторное занятие",
+                "presenter": "Бекбулатова З.А.",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Программная инженерия",
+                "type": "Практическое занятие",
+                "presenter": "Кулибеков Н.А",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Базы данных",
+                "type": "Лекция",
+                "presenter": "Бекбулатова З.А.",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Базы данных",
+                "type": "Практическое занятие",
+                "presenter": "Бекбулатова З.А.",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "2",
+                "title": "Интернет программирование",
+                "type": "Лабораторное занятие",
+                "presenter": "Магомедова Д.С",
+                "room": "4/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Проектирование информационных сиситем",
+                "type": "Лекция",
+                "presenter": "Баширова М.М",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Проектирование информационных сиситем",
+                "type": "Лабораторное занятие",
+                "presenter": "Баширова М.М",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Лекция",
+                "presenter": "Бейбалаев В.Д",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Интернет программирование",
+                "type": "Лекция",
+                "presenter": "Магомедова Д.С",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Интернет программирование",
+                "type": "Лабораторное занятие",
+                "presenter": "Магомедова Д.С",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Физическая культура",
+                "type": "Элективные дисциплины",
+                "presenter": "Зкарьяев Ю.М",
+                "room": "спортзал ул. Д. Атаева,5",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Практическое занятие",
+                "presenter": "Бейбалаев В.Д",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Английский язык в информационных технологиях",
+                "type": "Практическое занятие",
+                "presenter": "Мухудадаева Р.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "2",
+                "title": "Основы бухгалтерского учета",
+                "type": "Практическое занятие",
+                "presenter": "Цахаева Д.А",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Программная инженерия",
+                "type": "Практическое занятие",
+                "presenter": "Кулибеков Н.А",
+                "room": "3/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Базы данных",
+                "type": "Лабораторное занятие",
+                "presenter": "Бекбулатова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Проектирование информационных сиситем",
+                "type": "Практическое занятие",
+                "presenter": "Баширова М.М",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
