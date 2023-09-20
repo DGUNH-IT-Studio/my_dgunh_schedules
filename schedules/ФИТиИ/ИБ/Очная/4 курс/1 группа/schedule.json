@@ -1,0 +1,422 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Системы искусственного интнлнекта",
+                "type": "Лабороторное занятие",
+                "presenter": "Муртузалиев М.М",
+                "room": "4/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Мониторинг и  аудит защищенности информации в автоматизированных системах",
+                "type": "Практическое занятие",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Междисциплинарный курс Обеспечение безопасности информации в автоматизированных системах ",
+                "type": "Практическое занятие",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Основы управление информационной безопасностью в автоматизированных системах",
+                "type": "Лекция",
+                "presenter": "Гасанова З.А",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Безопасность систем баз данных",
+                "type": "Лекция",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Безопасность систем баз данных",
+                "type": "Практическое занятие",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Основы управление информационной безопасностью в автоматизированных системах",
+                "type": "Практическое занятие",
+                "presenter": "Гасанова З.А",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Проектирование защищенных автоматизированных систем",
+                "type": "Лекция",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Проектирование защищенных автоматизированных систем",
+                "type": "Практическое занятие",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Обеспечение безопасности WEB приложений",
+                "type": "Лекция",
+                "presenter": "Исабеков Т.И",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Обеспечение безопасности WEB приложений",
+                "type": "Практическое занятие",
+                "presenter": "Исабеков Т.И",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Мониторинг и  аудит защищенности информации в автоматизированных системах",
+                "type": "Практическое занятие",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Безопасность операционных систем",
+                "type": "Лекция",
+                "presenter": "Гасанова З.А",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Безопасность операционных систем",
+                "type": "Лабороторное занятие",
+                "presenter": "Гасанова З.А",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "2",
+                "title": "Системы искусственного интнлнекта",
+                "type": "Лекция",
+                "presenter": "Муртузалиев М.М",
+                "room": "4/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Мониторинг и  аудит защищенности информации в автоматизированных системах",
+                "type": "Лекция",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Междисциплинарный курс Обеспечение безопасности информации в автоматизированных системах ",
+                "type": "Лабороторное занятие",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Основы управление информационной безопасностью в автоматизированных системах",
+                "type": "Лекция",
+                "presenter": "Гасанова З.А",
+                "room": "4/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Безопасность систем баз данных",
+                "type": "Лекция",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Безопасность систем баз данных",
+                "type": "Лабороторное занятие",
+                "presenter": "Меджидов З.У",
+                "room": "4/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Основы управление информационной безопасностью в автоматизированных системах",
+                "type": "Лабороторное занятие",
+                "presenter": "Гасанова З.А",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Проектирование защищенных автоматизированных систем",
+                "type": "Лекция",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Проектирование защищенных автоматизированных систем",
+                "type": "Лабороторное занятие",
+                "presenter": "Меджидов З.У",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Обеспечение безопасности WEB приложений",
+                "type": "Лекция",
+                "presenter": "Исабеков Т.И",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Обеспечение безопасности WEB приложений",
+                "type": "Лабороторное занятие",
+                "presenter": "Исабеков Т.И",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Мониторинг и  аудит защищенности информации в автоматизированных системах",
+                "type": "Лабороторное занятие",
+                "presenter": "Эмирбеков Э.М",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Безопасность операционных систем",
+                "type": "Лекция",
+                "presenter": "Гасанова З.А",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Безопасность операционных систем",
+                "type": "Практическое занятие",
+                "presenter": "Гасанова З.А",
+                "room": "4/13",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
