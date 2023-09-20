@@ -1,0 +1,436 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Системы искусственного интелекта",
+                "type": "Лабораторное занятие",
+                "presenter": "Рамазанов Ш.Р",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Моделирование экоеомических процессов и систем",
+                "type": "Лекция",
+                "presenter": "Магомедов К.А",
+                "room": "3/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Моделирование экоеомических процессов и систем",
+                "type": "Практическое занятие",
+                "presenter": "Магомедов К.А",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Лекция",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Лабораторное занятие",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Практическое занятие",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Информационные системы экономического анализа",
+                "type": "Лекция",
+                "presenter": "Эминова Н.Э",
+                "room": "4/9",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Информационные системы экономического анализа",
+                "type": "Лабораторное занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Информационные системы в бухгалтерском учете",
+                "type": "Практическое занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "2",
+                "title": "Проектный практикум",
+                "type": "Практическое занятие",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "3/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Проектный практикум",
+                "type": "Лабораторное занятие",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Междисциплинарный проект Управление разработкой информационных систем",
+                "type": "Практическое занятие",
+                "presenter": "Раджабов К.Я",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "2",
+                "title": "Информационные системы в бухгалтерском учете",
+                "type": "Лекция",
+                "presenter": "Эминова Н.Э",
+                "room": "4/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Информационные системы в бухгалтерском учете",
+                "type": "Лабораторное занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Управление проектами",
+                "type": "Лекция",
+                "presenter": "Тагиров Ш.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Управление проектами",
+                "type": "Практическое занятие",
+                "presenter": "Тагиров Ш.",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Системы искусственного интелекта",
+                "type": "Лабораторное занятие",
+                "presenter": "Рамазанов Ш.Р",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Моделирование экоеомических процессов и систем",
+                "type": "Лекция",
+                "presenter": "Рамазанов Ш.Р",
+                "room": "Магомедов К.А",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Моделирование экоеомических процессов и систем",
+                "type": "Лабораторное занятие",
+                "presenter": "Магомедов К.А",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Лекция",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Лабораторное занятие",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Работа с базами данных в визуальных средах",
+                "type": "Практическое занятие",
+                "presenter": "Ахмедова З.А",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Информационные системы экономического анализа",
+                "type": "Практическое занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Информационные системы экономического анализа",
+                "type": "Лабораторное занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "3",
+                "title": "Проектный практикум",
+                "type": "Лабораторное занятие",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Междисциплинарный проект Управление разработкой информационных систем",
+                "type": "Лабораторное занятие",
+                "presenter": "Раджабов К.Я",
+                "room": "3/10",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "2",
+                "title": "Информационные системы в бухгалтерском учете",
+                "type": "Лекция",
+                "presenter": "Эминова Н.Э",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Информационные системы в бухгалтерском учете",
+                "type": "Лабораторное занятие",
+                "presenter": "Эминова Н.Э",
+                "room": "3/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Управление проектами",
+                "type": "Практическое занятие",
+                "presenter": "Тагиров Ш.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
