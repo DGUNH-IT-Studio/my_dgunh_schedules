@@ -1,0 +1,450 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Самоменеджмент",
+                "type": "Лекция",
+                "presenter": "Бабаева М.Г.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Физика",
+                "type": "Практическое занятие",
+                "presenter": "Мурлиева Ж.Х.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева М.Г.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Офисные программы и делопроизводства",
+                "type": "Лекция",
+                "presenter": "Кулибекова Р.Д.",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Экономика недвижимости ",
+                "type": "Лекция",
+                "presenter": "Абдуллаева Р.М.",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "3",
+                "title": "Геодезия",
+                "type": "Практическое занятие",
+                "presenter": "Абдуллаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Эликтивные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Касумов М.Х.",
+                "room": "спортзал на Д. Атаева, 5",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Лекция",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Практическое занятие",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Садыкова С.З.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Лекция",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "История земельно-имущественных отношений",
+                "type": "Лекция",
+                "presenter": "Исмаилов А.Б.",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Экология",
+                "type": "Лекция",
+                "presenter": "Адиева А.А.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Экология",
+                "type": "Практическое занятие",
+                "presenter": "Адиева А.А.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Физика",
+                "type": "Лекция",
+                "presenter": "Мурлиева Ж.Х.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "1",
+                "title": "Физика",
+                "type": "Лабороторное занятие",
+                "presenter": "Мурлиева Ж.Х.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "1",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева М.Г.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Офисные программы и делопроизводства",
+                "type": "Практическое занятие",
+                "presenter": "Кулибекова Р.Д.",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Экономика недвижимости ",
+                "type": "Практическое занятие",
+                "presenter": "Абдуллаева Р.М.",
+                "room": "4/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Офисные программы и делопроизводства",
+                "type": "Практическое занятие",
+                "presenter": "Кулибекова Р.Д.",
+                "room": "3/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "2",
+                "title": "Геодезия",
+                "type": "Лекция",
+                "presenter": "Абдуллаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Геодезия",
+                "type": "Практическое занятие",
+                "presenter": "Абдуллаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Эликтивные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Касумов М.Х.",
+                "room": "спортзал на Д. Атаева, 5",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Лекция",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Практическое занятие",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Садыкова С.З.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Почвоведение и инженерная геология",
+                "type": "Лабороторное занятие",
+                "presenter": "Пайзулаева Р.М.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "История земельно-имущественных отношений",
+                "type": "Лекция",
+                "presenter": "Исмаилов А.Б.",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Экология",
+                "type": "Лабороторное занятие",
+                "presenter": "Адиева А.А.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Экология",
+                "type": "Практическое занятие",
+                "presenter": "Адиева А.А.",
+                "room": "5/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
