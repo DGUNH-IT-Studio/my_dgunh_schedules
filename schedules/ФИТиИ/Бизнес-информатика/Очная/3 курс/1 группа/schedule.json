@@ -1,0 +1,448 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Основы бизнеса",
+                "type": "Лекция",
+                "presenter": "Мусаева С.Х",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы бизнеса",
+                "type": "Практическое занятие",
+                "presenter": "Мусаева С.Х",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Программирование на Python",
+                "type": "Лекция",
+                "presenter": "Раджабов К.Я",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Программирование на Python",
+                "type": "Практическое занятие",
+                "presenter": "Раджабов К.Я",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Стратегический менеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Гурбаев О.М",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Автоматизация безнеспроцессов",
+                "type": "Лекция",
+                "presenter": "Абдулаев М.А",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Автоматизация безнеспроцессов",
+                "type": "Практическое занятие",
+                "presenter": "Абдулаев М.А",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Стратегический менеджмент",
+                "type": "Лекция",
+                "presenter": "Гурбаев О.М",
+                "room": "4/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Моделирование бизнеспроцессов",
+                "type": "Лекция",
+                "presenter": "Абдулаев М.А",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Моделирование бизнеспроцессов",
+                "type": "Лабораторное занятие",
+                "presenter": "Абдулаев М.А",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Элективные дисциплины по физической культуре",
+                "type": "",
+                "presenter": "Закарьяев Ю.М",
+                "room": "спортзал ул.Д. Атаева,5",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Маркетинг",
+                "type": "Практическое занятие",
+                "presenter": "Хасбулатова Б.М",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Анализ больших данных",
+                "type": "Лекция",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Анализ больших данных",
+                "type": "Лабораторное занятие",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Маркетинг",
+                "type": "Лекция",
+                "presenter": "Хасбулатова Б.М",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Управление разработкой информационных систем",
+                "type": "Лабораторное занятие",
+                "presenter": "Тагиев М.Х",
+                "room": "4/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Основы бизнеса",
+                "type": "Лекция",
+                "presenter": "Мусаева С.Х",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы бизнеса",
+                "type": "Практическое занятие",
+                "presenter": "Мусаева С.Х",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Программирование на Python",
+                "type": "Лекция",
+                "presenter": "Раджабов К.Я",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Программирование на Python",
+                "type": "Лабораторное занятие",
+                "presenter": "Раджабов К.Я",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Стратегический менеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Гурбаев О.М",
+                "room": "2/4",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Автоматизация безнеспроцессов",
+                "type": "Лекция",
+                "presenter": "Абдулаев М.А",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Автоматизация безнеспроцессов",
+                "type": "Лабораторное занятие",
+                "presenter": "Абдулаев М.А",
+                "room": "2/2",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Моделирование бизнеспроцессов",
+                "type": "Практическое занятие",
+                "presenter": "Абдулаев М.А",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Моделирование бизнеспроцессов",
+                "type": "Лабораторное занятие",
+                "presenter": "Абдулаев М.А",
+                "room": "2/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Элективные дисциплины по физической культуре",
+                "type": "",
+                "presenter": "Закарьяев Ю.М",
+                "room": "спортзал ул.Д. Атаева,5",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Маркетинг",
+                "type": "Практическое занятие",
+                "presenter": "Хасбулатова Б.М",
+                "room": "2/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Анализ больших данных",
+                "type": "Практическое занятие",
+                "presenter": "Кобзаренко Д.Н",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Управление разработкой информационных систем",
+                "type": "Лекция",
+                "presenter": "Тагиев М.Х",
+                "room": "2/4",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Управление разработкой информационных систем",
+                "type": "Практическое занятие",
+                "presenter": "Тагиев М.Х",
+                "room": "4/2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
