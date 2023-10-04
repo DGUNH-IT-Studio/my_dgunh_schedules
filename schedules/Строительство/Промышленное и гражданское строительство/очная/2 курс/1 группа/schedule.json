@@ -1,0 +1,506 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "2",
+                "title": "Сопротивление материалов",
+                "type": "Лекция",
+                "presenter": "Акаев А.И.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Математика",
+                "type": "Практическое занятие",
+                "presenter": "Абдурахманова Л.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Элективные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Касумов М.Х.",
+                "room": "спортзал на Д. Ататева, 5",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Основы архитектуры и строительных конструкций",
+                "type": "Практическое занятие",
+                "presenter": "Гаджимирзоева Р.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы архитектуры и строительных конструкций",
+                "type": "Практическое занятие",
+                "presenter": "Гаджимирзоева Р.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Лекция",
+                "presenter": "Бабаева Д.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Математика",
+                "type": "Лекция",
+                "presenter": "Абдурахманова Л.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Сопротивление материалов",
+                "type": "Практическое занятие",
+                "presenter": "Акаев А.И.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева Д.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Кадиева А.А.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Инженерная графика",
+                "type": "Практическое занятие",
+                "presenter": "Джалалов Ш.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Инженерная графика",
+                "type": "Лекция",
+                "presenter": "Джалалов Ш.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Строительные материалы",
+                "type": "Практическое занятие",
+                "presenter": "Джалалов Ш.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Строительные машины и оборудование",
+                "type": "Лекция",
+                "presenter": "Муртузов М.М.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы сторительной физики",
+                "type": "Лабораторное занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Основы сторительной физики",
+                "type": "Лекция",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы сторительной физики",
+                "type": "Практическое занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "2",
+                "title": "Сопротивление материалов",
+                "type": "Лекция",
+                "presenter": "Акаев А.И.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Математика",
+                "type": "Практическое занятие",
+                "presenter": "Абдурахманова Л.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Элективные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Касумов М.Х.",
+                "room": "спортзал на Д. Ататева, 5",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Основы архитектуры и строительных конструкций",
+                "type": "Лекция",
+                "presenter": "Гаджимирзоева Р.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы архитектуры и строительных конструкций",
+                "type": "Практическое занятие",
+                "presenter": "Гаджимирзоева Р.С.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева Д.Г.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "2",
+                "title": "Сопротивление материалов",
+                "type": "Практическое занятие",
+                "presenter": "Акаев А.И.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Сопротивление материалов",
+                "type": "Практическое занятие",
+                "presenter": "Акаев А.И.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Кадиева А.А.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Инженерная графика",
+                "type": "Практическое занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Строительные материалы",
+                "type": "Лекция",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Строительные материалы",
+                "type": "Практическое занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Строительные материалы",
+                "type": "Лабораторное занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Строительные машины и оборудование",
+                "type": "Практическое занятие",
+                "presenter": "Муртузов М.М.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Основы сторительной физики",
+                "type": "Лабораторное занятие",
+                "presenter": "Джалалов Р.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Инженерная геодезия",
+                "type": "Лекция",
+                "presenter": "Омаров Ш.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "1",
+                "title": "Инженерная геодезия",
+                "type": "Практическое занятие",
+                "presenter": "Омаров Ш.К.",
+                "room": "2/8",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
