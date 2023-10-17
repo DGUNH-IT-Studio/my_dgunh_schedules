@@ -1,0 +1,520 @@
+[
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Лекция",
+                "presenter": "Гайдаров Д.Р.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Магомедова К.М.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Документоведение",
+                "type": "Лекция",
+                "presenter": "Кунниева З.А.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Элективные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Скляров Д.А.",
+                "room": "спортзал ул. Д.Атаева, 5",
+                "building": "",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Программирование на языке С",
+                "type": "Лекция",
+                "presenter": "Гебекова П.И.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Электротехника",
+                "type": "Практическое занятие",
+                "presenter": "Мустафаев А.Г",
+                "room": "4/4",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Теория информации",
+                "type": "Практическое занятие",
+                "presenter": "Савина Е.В.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Теория информации",
+                "type": "Лекция",
+                "presenter": "Савина Е.В.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Практическое занятие",
+                "presenter": "Гайдаров Д.Р.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Программирование на языке С",
+                "type": "Практическое занятие",
+                "presenter": "Гебекова П.И.",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Технология и методы программирования",
+                "type": "Лекция",
+                "presenter": "Савина Е.В.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Программирование на языке С",
+                "type": "Лабораторное занятие",
+                "presenter": "Гебекова П.И.",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Документоведение",
+                "type": "Практическое занятие",
+                "presenter": "Кунниева З.А.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Электротехника",
+                "type": "Лекция",
+                "presenter": "Мустафаев А.Г",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Технология и методы программирования",
+                "type": "Практическое занятие",
+                "presenter": "Савина Е.В.",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Информационные технологии",
+                "type": "Лекция",
+                "presenter": "Сурхаев М.А",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Информационные технологии",
+                "type": "Лабораторное занятие",
+                "presenter": "Сурхаев М.А",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева Д.Г.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    },
+    {
+        "Monday": [
+            {
+                "num": "1",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Лекция",
+                "presenter": "Гайдаров Д.Р.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Иностранный язык",
+                "type": "Практическое занятие",
+                "presenter": "Магомедова К.М.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Документоведение",
+                "type": "Лекция",
+                "presenter": "Кунниева З.А.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "4",
+                "title": "Элективные дисциплины по физической культуре и спорту",
+                "type": "",
+                "presenter": "Скляров Д.А.",
+                "room": "спортзал ул. Д.Атаева, 5",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "num": "1",
+                "title": "Самоменеджмент",
+                "type": "Лекция",
+                "presenter": "Бабаева Д.Г.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Электротехника",
+                "type": "Лабораторное занятие",
+                "presenter": "Абдулагатова З.З",
+                "room": "4/1",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Теория информации",
+                "type": "Практическое занятие",
+                "presenter": "Кунниева З.А.",
+                "room": "3/11",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Wednsday": [
+            {
+                "num": "1",
+                "title": "Теория вероятностей и математическая статистика",
+                "type": "Практическое занятие",
+                "presenter": "Гайдаров Д.Р.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Теория информации",
+                "type": "Лекция",
+                "presenter": "Савина Е.В.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "num": "1",
+                "title": "Технология и методы программирования",
+                "type": "Лекция",
+                "presenter": "Савина Е.В.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Программирование на языке С",
+                "type": "Лабораторное занятие",
+                "presenter": "Гебекова П.И.",
+                "room": "2/2",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Документоведение",
+                "type": "Практическое занятие",
+                "presenter": "Кунниева З.А.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "num": "1",
+                "title": "Электротехника",
+                "type": "Лекция",
+                "presenter": "Мустафаев А.Г",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Технология и методы программирования",
+                "type": "Лабораторное занятие",
+                "presenter": "Савина Е.В.",
+                "room": "3/10",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ],
+        "Saturday": [
+            {
+                "num": "1",
+                "title": "Информационные технологии",
+                "type": "Лекция",
+                "presenter": "Сурхаев М.А",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "2",
+                "title": "Информационные технологии",
+                "type": "Практическое занятие",
+                "presenter": "Сурхаев М.А",
+                "room": "3/6",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            },
+            {
+                "num": "3",
+                "title": "Самоменеджмент",
+                "type": "Практическое занятие",
+                "presenter": "Бабаева Д.Г.",
+                "room": "3/3",
+                "building": "2",
+                "notes": "Something",
+                "links": {
+                    "useful_links": "",
+                    "task": "",
+                    "conference": ""
+                }
+            }
+        ]
+    }
+]
